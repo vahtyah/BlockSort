@@ -1,0 +1,90 @@
+
+loading_anim.png
+size: 1429,1557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jam
+  rotate: false
+  xy: 984, 1365
+  size: 443, 190
+  orig: 443, 190
+  offset: 0, 0
+  index: -1
+block
+  rotate: true
+  xy: 984, 11
+  size: 694, 217
+  orig: 694, 217
+  offset: 0, 0
+  index: -1
+blue
+  rotate: true
+  xy: 984, 707
+  size: 303, 309
+  orig: 303, 311
+  offset: 0, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 851
+  size: 980, 704
+  orig: 980, 704
+  offset: 0, 0
+  index: -1
+box front
+  rotate: false
+  xy: 2, 280
+  size: 980, 569
+  orig: 980, 570
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: true
+  xy: 1295, 825
+  size: 185, 122
+  orig: 187, 123
+  offset: 1, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 784, 168
+  size: 185, 110
+  orig: 187, 111
+  offset: 1, 0
+  index: -1
+green1
+  rotate: true
+  xy: 538, 21
+  size: 257, 244
+  orig: 257, 245
+  offset: 0, 1
+  index: -1
+green2
+  rotate: false
+  xy: 276, 12
+  size: 260, 266
+  orig: 261, 266
+  offset: 0, 0
+  index: -1
+green3
+  rotate: false
+  xy: 2, 2
+  size: 272, 276
+  orig: 272, 277
+  offset: 0, 1
+  index: -1
+pack
+  rotate: true
+  xy: 1203, 143
+  size: 562, 204
+  orig: 562, 204
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 984, 1012
+  size: 369, 351
+  orig: 369, 351
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+glitter.png
+size: 1066,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glitter
+  rotate: false
+  xy: 2, 775
+  size: 143, 143
+  orig: 147, 147
+  offset: 2, 2
+  index: -1
+glow
+  rotate: true
+  xy: 147, 2
+  size: 916, 917
+  orig: 1080, 1155
+  offset: 62, 119
+  index: -1

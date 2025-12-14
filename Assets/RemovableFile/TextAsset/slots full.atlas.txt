@@ -1,0 +1,132 @@
+
+slots full.png
+size: 1019,750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy 15
+  rotate: true
+  xy: 829, 5
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 19
+  rotate: false
+  xy: 953, 45
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 23
+  rotate: false
+  xy: 986, 83
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 30
+  rotate: false
+  xy: 896, 200
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 31
+  rotate: false
+  xy: 896, 121
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 33
+  rotate: false
+  xy: 896, 42
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 39
+  rotate: false
+  xy: 953, 200
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 4
+  rotate: true
+  xy: 791, 5
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 40
+  rotate: false
+  xy: 953, 121
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 5
+  rotate: false
+  xy: 953, 83
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 2
+  size: 787, 746
+  orig: 807, 765
+  offset: 10, 9
+  index: -1
+box_10
+  rotate: false
+  xy: 791, 554
+  size: 103, 194
+  orig: 112, 203
+  offset: 4, 5
+  index: -1
+box_10 copy
+  rotate: false
+  xy: 791, 358
+  size: 103, 194
+  orig: 112, 203
+  offset: 4, 5
+  index: -1
+box_4
+  rotate: false
+  xy: 896, 279
+  size: 103, 121
+  orig: 112, 130
+  offset: 4, 5
+  index: -1
+box_6
+  rotate: false
+  xy: 791, 198
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy
+  rotate: false
+  xy: 791, 38
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy 2
+  rotate: false
+  xy: 896, 402
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+vip_doc4
+  rotate: false
+  xy: 896, 562
+  size: 96, 186
+  orig: 98, 188
+  offset: 1, 1
+  index: -1

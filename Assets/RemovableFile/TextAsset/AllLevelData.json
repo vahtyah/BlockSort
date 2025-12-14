@@ -1,0 +1,2812 @@
+{
+    "levels": [
+        {
+            "level_number": 1,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 0 ]
+        },
+        {
+            "level_number": 2,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 11, 12 ]
+        },
+        {
+            "level_number": 3,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 15, 37 ]
+        },
+        {
+            "level_number": 4,
+            "totalMystery": 0,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 17, 16 ]
+        },
+        {
+            "level_number": 5,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": true,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 35, 38, 10 ]
+        },
+        {
+            "level_number": 6,
+            "totalMystery": 0,
+            "totalTunnel": 2,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 16, 2 ]
+        },
+        {
+            "level_number": 7,
+            "totalMystery": 25,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 4, 13, 16 ]
+        },
+        {
+            "level_number": 8,
+            "totalMystery": 50,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 18, 20, 24 ]
+        },
+        {
+            "level_number": 9,
+            "totalMystery": 0,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 2
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 3
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 9, 19 ]
+        },
+        {
+            "level_number": 10,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": true,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 18, 19, 15 ]
+        },
+        {
+            "level_number": 11,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 3
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 26, 31, 20 ]
+        },
+        {
+            "level_number": 12,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 10,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 18, 20, 35 ]
+        },
+        {
+            "level_number": 13,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 1,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 3
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 9, 20 ]
+        },
+        {
+            "level_number": 14,
+            "totalMystery": 0,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 36, 37, 8 ]
+        },
+        {
+            "level_number": 15,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": true,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 3
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 3
+                }
+            ],
+            "layers":[ 24, 35, 32, 17 ]
+        },
+        {
+            "level_number": 16,
+            "totalMystery": 10,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 2
+                }
+            ],
+            "layers":[ 17, 25, 33, 27 ]
+        },
+        {
+            "level_number": 17,
+            "totalMystery": 10,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 5, 24, 7 ]
+        },
+        {
+            "level_number": 18,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 5, 18, 24, 23 ]
+        },
+        {
+            "level_number": 19,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 3
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 21, 22, 25, 40 ]
+        },
+        {
+            "level_number": 20,
+            "totalMystery": 0,
+            "totalTunnel": 2,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 2
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 2
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 33, 27, 2 ]
+        },
+        {
+            "level_number": 21,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 3
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 19, 21, 22, 36 ]
+        },
+        {
+            "level_number": 22,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 19, 21, 22, 36 ]
+        },
+        {
+            "level_number": 23,
+            "totalMystery": 20,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 2
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 2
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 2
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 38, 10, 7 ]
+        },
+        {
+            "level_number": 24,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ ]
+        },
+        {
+            "level_number": 25,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 35, 24, 18 ]
+        },
+        {
+            "level_number": 26,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 36, 24, 18 ]
+        },
+        {
+            "level_number": 27,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 36, 24, 18 ]
+        },
+        {
+            "level_number": 28,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 40, 24, 18 ]
+        },
+        {
+            "level_number": 29,
+            "totalMystery": 0,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 25, 29, 6, 7 ]
+        },
+        {
+            "level_number": 30,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 20, 20, 20 ]
+        },
+        {
+            "level_number": 31,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 38, 31, 29 ]
+        },
+        {
+            "level_number": 32,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 3
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 21, 31, 23 ]
+        },
+        {
+            "level_number": 33,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 3
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 2
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 17, 22, 35 ]
+        },
+        {
+            "level_number": 34,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 4
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 36, 19, 29, 10 ]
+        },
+        {
+            "level_number": 35,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 2
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 3
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 20, 24, 9 ]
+        },
+        {
+            "level_number": 36,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 2
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 2
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 7, 18, 24 ]
+        },
+        {
+            "level_number": 37,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 10, 24, 26 ]
+        },
+        {
+            "level_number": 38,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 24, 18, 8 ]
+        },
+        {
+            "level_number": 39,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 3
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 26, 24, 35 ]
+        },
+        {
+            "level_number": 40,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 2
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 2
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 3
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 5, 17, 35, 17 ]
+        },
+        {
+            "level_number": 41,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 20, 18, 24, 18 ]
+        },
+        {
+            "level_number": 42,
+            "totalMystery": 20,
+            "totalTunnel": 1,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 23, 26, 13 ]
+        },
+        {
+            "level_number": 43,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 38, 24, 18, 20 ]
+        },
+        {
+            "level_number": 44,
+            "totalMystery": 25,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 20, 18, 24, 18 ]
+        },
+        {
+            "level_number": 45,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": true,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 33, 38, 26, 31 ]
+        },
+        {
+            "level_number": 46,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 5, 31, 24, 18 ]
+        },
+        {
+            "level_number": 47,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 2
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 17, 18, 24, 31 ]
+        },
+        {
+            "level_number": 48,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 24, 20, 18 ]
+        },
+        {
+            "level_number": 49,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 28, 31, 24, 18 ]
+        },
+        {
+            "level_number": 50,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 3
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 2
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 3
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 2
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 9, 24, 18 ]
+        },
+        {
+            "level_number": 51,
+            "totalMystery": 0,
+            "totalTunnel": 0,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 2
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 15, 37 ]
+        },
+        {
+            "level_number": 52,
+            "totalMystery": 0,
+            "totalTunnel": 2,
+            "totalConnectedBox": 0,
+            "isHardLevel": false,
+            "colors": [
+                {
+                    "Key": "Red",
+                    "Value": 1
+                },
+                {
+                    "Key": "Green",
+                    "Value": 1
+                },
+                {
+                    "Key": "Blue",
+                    "Value": 1
+                },
+                {
+                    "Key": "Yellow",
+                    "Value": 1
+                },
+                {
+                    "Key": "Purple",
+                    "Value": 1
+                },
+                {
+                    "Key": "Pink",
+                    "Value": 1
+                },
+                {
+                    "Key": "Orange",
+                    "Value": 1
+                },
+                {
+                    "Key": "Cyan",
+                    "Value": 1
+                },
+                {
+                    "Key": "Lavender",
+                    "Value": 1
+                },
+                {
+                    "Key": "Brown",
+                    "Value": 1
+                },
+                {
+                    "Key": "Black",
+                    "Value": 1
+                }
+            ],
+            "layers":[ 16, 2 ]
+        }
+    ]
+}

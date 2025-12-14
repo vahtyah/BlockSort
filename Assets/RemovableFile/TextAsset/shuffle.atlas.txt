@@ -1,0 +1,41 @@
+
+shuffle.png
+size: 801,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_10 copy
+  rotate: true
+  xy: 2, 2
+  size: 103, 194
+  orig: 112, 203
+  offset: 4, 5
+  index: -1
+box_4
+  rotate: true
+  xy: 678, 2
+  size: 103, 121
+  orig: 112, 130
+  offset: 4, 5
+  index: -1
+box_6
+  rotate: true
+  xy: 198, 2
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy
+  rotate: true
+  xy: 358, 2
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy 2
+  rotate: true
+  xy: 518, 2
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,125 @@
+
+vip.png
+size: 1253,750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy 15
+  rotate: false
+  xy: 1056, 12
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 19
+  rotate: false
+  xy: 1146, 228
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 30
+  rotate: true
+  xy: 934, 126
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 31
+  rotate: true
+  xy: 1013, 126
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 33
+  rotate: false
+  xy: 1032, 292
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 39
+  rotate: false
+  xy: 1032, 213
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 4
+  rotate: false
+  xy: 1056, 88
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 40
+  rotate: false
+  xy: 1089, 187
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 5
+  rotate: false
+  xy: 1056, 50
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 2
+  size: 787, 746
+  orig: 807, 765
+  offset: 10, 9
+  index: -1
+box_4
+  rotate: false
+  xy: 951, 3
+  size: 103, 121
+  orig: 112, 130
+  offset: 4, 5
+  index: -1
+box_6
+  rotate: true
+  xy: 791, 6
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy
+  rotate: true
+  xy: 1092, 266
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy 2
+  rotate: true
+  xy: 1092, 82
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+hand
+  rotate: true
+  xy: 791, 371
+  size: 377, 460
+  orig: 512, 512
+  offset: 68, 26
+  index: -1
+vip
+  rotate: false
+  xy: 791, 111
+  size: 141, 258
+  orig: 141, 258
+  offset: 0, 0
+  index: -1
+vip_doc4
+  rotate: false
+  xy: 934, 183
+  size: 96, 186
+  orig: 98, 188
+  offset: 1, 1
+  index: -1

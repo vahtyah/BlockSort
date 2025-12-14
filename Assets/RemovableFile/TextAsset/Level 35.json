@@ -1,0 +1,9698 @@
+{
+  "levelNumber": 35,
+  "row": 34,
+  "column": 12,
+  "totalMystery": 0,
+  "totalTunnel": 0,
+  "totalConnectedBox": 0,
+  "isHardLevel": true,
+  "pieces": [
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 0,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 1,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 2,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 3,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 4,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 5,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 6,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 7,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 8,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 9,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 10,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 11,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 46.58373,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 12,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 48.5803833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 13,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 48.5803833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 14,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 48.5803871,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 15,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 48.5803833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 16,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 48.5803833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 17,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 48.5803871,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 18,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 19,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 20,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 21,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 22,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 23,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 48.58202,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 24,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 25,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 26,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 27,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 28,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 29,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 50.6341133,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 30,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 50.63575,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 31,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 50.635746,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 32,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 50.63575,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 33,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 50.635746,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 34,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 50.63575,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 35,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 50.63575,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 36,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 37,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 38,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 39,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 40,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 41,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 52.63257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 42,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 52.6358376,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 43,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 52.6358376,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 44,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 52.63584,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 45,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 52.6358376,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 46,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 52.63584,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 47,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 52.63584,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 48,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 54.6862946,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 49,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 54.6863,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 50,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 54.6863,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 51,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 54.6862946,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 52,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 54.6862946,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 53,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 54.6863,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 54,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 54.6895676,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 55,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 54.6895638,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 56,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 54.6895676,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 57,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 54.6895638,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 58,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 54.6895676,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 59,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 54.6895676,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 60,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 56.687664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 61,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 56.6876678,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 62,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 56.6876678,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 63,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 56.687664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 64,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 56.687664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 65,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 56.6876678,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 66,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 56.69257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 67,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 56.69257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 68,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 56.6925735,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 69,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 56.69257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 70,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 56.6925735,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 71,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 56.6925735,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 72,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 73,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 74,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 75,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 76,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 77,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 58.741394,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 78,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 58.7463,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 79,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 58.7462959,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 80,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 58.7463,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 81,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 58.7462959,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 82,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 58.7463,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 83,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 58.7463,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 84,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 60.7460442,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 85,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 60.7460442,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 86,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 60.746048,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 87,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 60.7460442,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 88,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 60.7460442,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 89,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 60.746048,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 90,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 60.7525826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 91,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 60.7525826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 92,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 60.7525864,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 93,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 60.7525826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 94,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 60.7525864,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 95,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 60.7525864,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 96,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 62.79977,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 97,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 62.7997742,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 98,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 62.7997742,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 99,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 62.79977,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 100,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 62.79977,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 101,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 62.7997742,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 102,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 62.78424,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 103,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 62.7842369,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 104,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 62.78424,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 105,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 62.7842369,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 106,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 62.78424,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 107,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 62.78424,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 108,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 64.80772,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 109,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 64.807724,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 110,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 64.807724,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 111,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 64.80772,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 112,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 64.80772,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 113,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 64.807724,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 114,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 115,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 116,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 117,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 118,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 119,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 64.83797,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 120,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 121,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 122,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 123,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 124,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 125,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 66.86145,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 126,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 66.84919,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 127,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 66.84918,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 128,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 66.84919,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 129,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 66.84918,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 130,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 66.84919,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 131,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 66.84919,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 132,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 68.8726654,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 133,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 68.87267,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 134,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 68.87267,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 135,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 68.8726654,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 136,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 68.8726654,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 137,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 68.87267,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 138,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 139,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 140,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 141,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 142,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 143,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 68.902916,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 144,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 70.92639,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 145,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 70.9264,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 146,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 70.9264,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 147,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 70.92639,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 148,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 70.92639,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 149,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 70.9264,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 150,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 151,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 152,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 153,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 154,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 155,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 70.9174042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 156,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 72.94088,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 157,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 72.94089,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 158,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 72.94089,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 159,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 72.94088,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 160,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 72.94088,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 161,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 72.94089,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 162,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 163,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 164,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 165,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 166,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 167,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 72.97113,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 168,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 74.994606,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 169,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 74.99461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 170,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 74.99461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 171,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 74.994606,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 172,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 74.994606,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 173,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 74.99461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 174,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 74.98889,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 175,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 74.988884,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 176,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 74.98889,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 177,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 74.988884,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 178,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 74.98889,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 179,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 74.98889,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 180,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 77.01237,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 181,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 77.0123749,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 182,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 77.0123749,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 183,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 77.01237,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 184,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 77.01237,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 185,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 77.0123749,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 186,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 77.04262,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 187,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 77.04261,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 188,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 77.04262,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 189,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 77.04261,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 190,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 77.04262,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 191,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 77.04262,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 192,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 79.06609,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 193,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 79.0661,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 194,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 79.0661,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 195,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 79.06609,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 196,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 79.06609,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 197,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 79.0661,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 198,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 199,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 200,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 201,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 202,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 203,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 79.0636444,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 204,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 81.08712,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 205,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 81.08713,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 206,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 81.08713,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 207,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 81.08712,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 208,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 81.08712,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 209,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 81.08713,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 210,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 81.11737,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 211,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 81.11737,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 212,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 81.11738,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 213,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 81.11737,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 214,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 81.11738,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 215,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 81.11738,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 216,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 83.14085,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 217,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 83.1408539,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 218,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 83.1408539,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 219,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 83.14085,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 220,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 83.14085,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 221,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 83.1408539,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 222,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 83.14167,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 223,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 83.14166,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 224,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 83.14167,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 225,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 83.14166,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 226,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 83.14167,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 227,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 83.14167,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 228,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 85.1651459,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 229,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 85.16515,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 230,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 85.16515,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 231,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 85.1651459,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 232,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 85.1651459,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 233,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 85.16515,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 234,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 85.1954,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 235,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 85.1954,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 236,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 85.1954041,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 237,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 85.1954,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 238,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 85.1954041,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 239,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 85.1954041,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 240,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 87.21887,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 241,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 87.21888,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 242,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 87.21888,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 243,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 87.21887,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 244,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 87.21887,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 245,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 87.21888,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 246,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 87.22296,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 247,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 87.22296,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 248,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 87.22297,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 249,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 87.22296,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 250,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 87.22297,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 251,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 87.22297,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 252,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 89.2464447,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 253,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 89.24645,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 254,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 89.24645,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 255,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 89.2464447,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 256,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 89.2464447,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 257,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 89.24645,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 258,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 89.27669,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 259,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 89.27669,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 260,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 89.2766953,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 261,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 89.27669,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 262,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 89.2766953,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 263,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 89.2766953,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 264,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 91.30017,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 265,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 91.30018,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 266,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 91.30018,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 267,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 91.30017,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 268,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 91.30017,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 269,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 91.30018,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 270,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 91.3075256,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 271,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 91.3075256,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 272,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 91.30753,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 273,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 91.3075256,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 274,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 91.30753,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 275,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 91.30753,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 276,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 93.33101,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 277,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 93.33102,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 278,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 93.33102,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 279,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 93.33101,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 280,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 93.33101,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 281,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 93.33102,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 282,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 93.36126,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 283,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 93.36125,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 284,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 93.36126,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 285,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 93.36125,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 286,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 93.36126,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 287,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 93.36126,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 288,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 95.3847351,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 289,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 95.38474,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 290,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 95.38474,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 291,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 95.3847351,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 292,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 95.3847351,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 293,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 95.38474,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 294,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 95.39536,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 295,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 95.39536,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 296,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 95.39537,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 297,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 95.39536,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 298,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 95.39537,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 299,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 95.39537,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 300,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 97.4188461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 301,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 97.41885,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 302,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 97.41885,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 303,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 97.4188461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 304,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 97.4188461,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 305,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 97.41885,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 306,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 97.44909,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 307,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 97.44909,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 308,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 97.4491,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 309,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 97.44909,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 310,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 97.4491,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 311,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 97.4491,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 312,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 99.47257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 313,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 99.47258,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 314,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 99.47258,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 315,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 99.47257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 316,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 99.47257,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 317,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 99.47258,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 318,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 99.4864655,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 319,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 99.48646,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 320,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 99.4864655,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 321,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 99.48646,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 322,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 99.4864655,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 323,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 99.4864655,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 324,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 101.509941,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 325,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 101.509949,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 326,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 101.509949,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 327,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 101.509941,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 328,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 101.509941,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 329,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 101.509949,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 330,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 101.540192,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 331,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 101.540192,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 332,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 101.5402,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 333,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 101.540192,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 334,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 101.5402,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 335,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 101.5402,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 336,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 103.563675,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 337,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 103.563675,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 338,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 103.563683,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 339,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 103.563675,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 340,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 103.563675,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 341,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 103.563683,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 342,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 103.580826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 343,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 103.580826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 344,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 103.580833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 345,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 103.580826,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 346,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 103.580833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 347,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 103.580833,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 348,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 105.604309,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 349,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 105.604317,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 350,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 105.604317,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 351,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 105.604309,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 352,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 105.604309,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 353,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 105.604317,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 354,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 105.634552,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 355,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 105.634552,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 356,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 105.63456,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 357,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 105.634552,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 358,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 105.63456,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 359,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 105.63456,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 360,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 107.658035,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 361,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 107.658043,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 362,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 107.658043,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 363,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 107.658035,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 364,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 107.658035,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 365,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 107.658043,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 366,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 107.678558,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 367,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 107.678558,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 368,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 107.678566,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 369,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 107.678558,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 370,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 107.678566,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 371,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 107.678566,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 372,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 109.702042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 373,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 109.702049,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 374,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 109.702049,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 375,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 109.702042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 376,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 109.702042,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 377,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 109.702049,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 378,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 109.732285,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 379,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 109.732285,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 380,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 109.732292,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 381,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 109.732285,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 382,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 109.732292,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 383,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 109.732292,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 384,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 111.755768,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 385,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 111.755775,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 386,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 111.755775,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 387,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 111.755768,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 388,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 111.755768,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 389,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 111.755775,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 390,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 111.77993,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 391,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 111.77993,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 392,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 111.779938,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 393,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 111.77993,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 394,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 111.779938,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 395,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 111.779938,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 396,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 113.803413,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 397,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 113.803421,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 398,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 113.803421,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 399,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 113.803413,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 400,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 113.803413,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 401,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 113.803421,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 402,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 113.833656,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 403,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 113.833656,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 404,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 113.833664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 405,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 113.833656,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 406,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 113.833664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 407,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 113.833664,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 408,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 115.85714,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 409,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 115.857147,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 410,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 115.857147,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 411,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 115.85714,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 412,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 115.85714,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 413,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 115.857147,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 414,
+      "stackSize": 1,
+      "position": {
+        "x": 63.93,
+        "y": 115.8853,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 415,
+      "stackSize": 1,
+      "position": {
+        "x": 65.99,
+        "y": 115.8853,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 416,
+      "stackSize": 1,
+      "position": {
+        "x": 68.05,
+        "y": 115.885307,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 417,
+      "stackSize": 1,
+      "position": {
+        "x": 70.11,
+        "y": 115.8853,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 418,
+      "stackSize": 1,
+      "position": {
+        "x": 72.17,
+        "y": 115.885307,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 419,
+      "stackSize": 1,
+      "position": {
+        "x": 74.2299957,
+        "y": 115.885307,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 420,
+      "stackSize": 1,
+      "position": {
+        "x": 51.57,
+        "y": 117.908783,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 421,
+      "stackSize": 1,
+      "position": {
+        "x": 53.63,
+        "y": 117.908791,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 422,
+      "stackSize": 1,
+      "position": {
+        "x": 55.6900024,
+        "y": 117.908791,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 423,
+      "stackSize": 1,
+      "position": {
+        "x": 57.75,
+        "y": 117.908783,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 424,
+      "stackSize": 1,
+      "position": {
+        "x": 59.81,
+        "y": 117.908783,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isBasePiece": true,
+      "dataIndex": 425,
+      "stackSize": 1,
+      "position": {
+        "x": 61.87,
+        "y": 117.908791,
+        "z": 0.225888491
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "boxes": [
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 0,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 48.5,
+        "y": 13.5999994,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 1,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.9,
+        "y": 13.7999992,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 2,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 77.3,
+        "y": 16.1,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 3,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 77.3,
+        "y": 19.62,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 4,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 77.3,
+        "y": 27.6400013,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 5,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.9699936,
+        "y": 23.1999989,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 6,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 48.49,
+        "y": 19.4999981,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 7,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 48.49,
+        "y": 27.5199986,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 8,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.9,
+        "y": 21.5600014,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 9,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.64,
+        "y": 21.38,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 10,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.9,
+        "y": 25.420002,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 11,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.64,
+        "y": 25.24,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 12,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 67.33,
+        "y": 21.5600014,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 13,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.86,
+        "y": 21.38,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 14,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 67.33,
+        "y": 25.420002,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 15,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.86,
+        "y": 25.24,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 16,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 70.11,
+        "y": 17.1600018,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 17,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 55.71,
+        "y": 16.98,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 18,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 70.11,
+        "y": 29.7300014,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 19,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 55.71,
+        "y": 29.55,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 20,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 66.58999,
+        "y": 17.920002,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 21,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.05,
+        "y": 17.74,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 22,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 66.58999,
+        "y": 28.9400024,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 23,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.05,
+        "y": 28.76,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 24,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 73.7,
+        "y": 18.0600014,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 25,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 59.37,
+        "y": 17.88,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 26,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 73.7,
+        "y": 29.0800018,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 27,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 59.37,
+        "y": 28.9,
+        "z": -4.1
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 28,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.8999977,
+        "y": 31.3199978,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 29,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.8999977,
+        "y": 13.5099993,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 30,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 53.15,
+        "y": 27.72,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 31,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 53.15,
+        "y": 24.1999989,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 32,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 53.15,
+        "y": 20.7099972,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 33,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.6499939,
+        "y": 27.7499981,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 34,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.6499939,
+        "y": 24.2299976,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 35,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.6499939,
+        "y": 20.74,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 36,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 53.15,
+        "y": 17.1399975,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 37,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.6499939,
+        "y": 17.17,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 38,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 69.21001,
+        "y": 31.3199978,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 39,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 69.21001,
+        "y": 13.5099993,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 40,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 56.58,
+        "y": 31.3199978,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 41,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 56.58,
+        "y": 13.5099993,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 42,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.8999977,
+        "y": 26.460001,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 43,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.8999977,
+        "y": 18.1500034,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 44,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.7800026,
+        "y": 22.3400021,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 45,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 67.0,
+        "y": 22.3400021,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 46,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.7800026,
+        "y": 26.4799976,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 47,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.7800026,
+        "y": 18.17,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 48,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 62.8500023,
+        "y": 22.28,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 49,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 67.0,
+        "y": 26.4799976,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 50,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 67.0,
+        "y": 18.17,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Orange",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 51,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 73.34,
+        "y": 31.3199978,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 52,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 73.2700043,
+        "y": 13.5099993,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Yellow",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 53,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.43,
+        "y": 31.3199978,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 54,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 52.43,
+        "y": 13.5099993,
+        "z": -1.9000001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 55,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 63.11,
+        "y": 27.18,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 10,
+      "dataIndex": 56,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 63.11,
+        "y": 18.7999973,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Green",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 57,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 57.470005,
+        "y": 23.05,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 58,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 63.3500061,
+        "y": 23.05,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 59,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 54.1900024,
+        "y": 19.4499989,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 60,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.220005,
+        "y": 15.5,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 61,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 58.220005,
+        "y": 30.53,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Brown",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 62,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 54.1900024,
+        "y": 26.44,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 63,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.0,
+        "y": 19.4499989,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Blue",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 64,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 68.03001,
+        "y": 15.5099983,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 65,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 68.03001,
+        "y": 30.539999,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.7071068,
+        "w": 0.7071068
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Black",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 66,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 72.0,
+        "y": 26.44,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 6,
+      "dataIndex": 67,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 68.66,
+        "y": 23.05,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 68,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 57.470005,
+        "y": 18.83,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 69,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 57.470005,
+        "y": 27.19,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 70,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 68.66,
+        "y": 18.83,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "color": "Lavender",
+      "isMystery": false,
+      "isTunnelBox": false,
+      "isConnected": false,
+      "isBaseConnector": false,
+      "connectDirection": "Left",
+      "connectTo": 0,
+      "boxType": 4,
+      "dataIndex": 71,
+      "tunnelIndex": 0,
+      "position": {
+        "x": 68.66,
+        "y": 27.19,
+        "z": 0.3
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ],
+  "tunnels": []
+}

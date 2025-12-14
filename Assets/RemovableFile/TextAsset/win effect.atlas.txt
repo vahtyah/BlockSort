@@ -1,0 +1,76 @@
+
+win effect.png
+size: 1865,1234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue cloth
+  rotate: true
+  xy: 1713, 815
+  size: 417, 115
+  orig: 417, 115
+  offset: 0, 0
+  index: -1
+crop
+  rotate: false
+  xy: 1713, 554
+  size: 145, 259
+  orig: 145, 259
+  offset: 0, 0
+  index: -1
+crop2
+  rotate: false
+  xy: 1713, 296
+  size: 150, 256
+  orig: 150, 256
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 970, 2
+  size: 274, 179
+  orig: 274, 179
+  offset: 0, 0
+  index: -1
+glitter
+  rotate: false
+  xy: 1650, 19
+  size: 162, 162
+  orig: 189, 189
+  offset: 13, 14
+  index: -1
+light_ray
+  rotate: true
+  xy: 2, 183
+  size: 1049, 1709
+  orig: 1049, 1709
+  offset: 0, 0
+  index: -1
+ribon bl
+  rotate: false
+  xy: 1448, 14
+  size: 200, 167
+  orig: 200, 167
+  offset: 0, 0
+  index: -1
+ribon br
+  rotate: false
+  xy: 1246, 13
+  size: 200, 168
+  orig: 200, 168
+  offset: 0, 0
+  index: -1
+ribon front
+  rotate: false
+  xy: 2, 12
+  size: 590, 169
+  orig: 590, 169
+  offset: 0, 0
+  index: -1
+win text
+  rotate: false
+  xy: 594, 101
+  size: 374, 80
+  orig: 378, 81
+  offset: 2, 1
+  index: -1

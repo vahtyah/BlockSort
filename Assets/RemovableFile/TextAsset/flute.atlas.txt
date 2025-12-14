@@ -1,0 +1,20 @@
+
+flute.png
+size: 706,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flute L
+  rotate: false
+  xy: 352, 6
+  size: 352, 356
+  orig: 352, 357
+  offset: 0, 1
+  index: -1
+flute R
+  rotate: false
+  xy: 2, 2
+  size: 348, 360
+  orig: 349, 361
+  offset: 1, 1
+  index: -1

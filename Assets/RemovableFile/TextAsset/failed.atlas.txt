@@ -1,0 +1,20 @@
+
+failed.png
+size: 529,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+failed grp
+  rotate: true
+  xy: 283, 23
+  size: 340, 244
+  orig: 340, 244
+  offset: 0, 0
+  index: -1
+stamp
+  rotate: true
+  xy: 2, 2
+  size: 361, 279
+  orig: 385, 280
+  offset: 17, 0
+  index: -1

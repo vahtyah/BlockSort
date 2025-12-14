@@ -1,0 +1,62 @@
+
+box open.png
+size: 1966,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box glow
+  rotate: true
+  xy: 772, 313
+  size: 704, 901
+  orig: 808, 1088
+  offset: 51, 102
+  index: -1
+box_body
+  rotate: false
+  xy: 772, 2
+  size: 456, 309
+  orig: 456, 311
+  offset: 0, 1
+  index: -1
+cover_dwn
+  rotate: false
+  xy: 2, 10
+  size: 518, 239
+  orig: 518, 239
+  offset: 0, 0
+  index: -1
+crwn
+  rotate: true
+  xy: 1756, 206
+  size: 285, 208
+  orig: 287, 209
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 2, 251
+  size: 766, 768
+  orig: 1026, 1031
+  offset: 127, 126
+  index: -1
+spark
+  rotate: false
+  xy: 1756, 61
+  size: 143, 143
+  orig: 147, 147
+  offset: 2, 2
+  index: -1
+top cover
+  rotate: false
+  xy: 1230, 20
+  size: 524, 291
+  orig: 524, 291
+  offset: 0, 0
+  index: -1
+top cover 2
+  rotate: true
+  xy: 1675, 493
+  size: 524, 243
+  orig: 524, 243
+  offset: 0, 0
+  index: -1

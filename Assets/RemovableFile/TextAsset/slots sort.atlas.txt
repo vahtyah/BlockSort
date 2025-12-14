@@ -1,0 +1,104 @@
+
+slots sort.png
+size: 977,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy 19
+  rotate: true
+  xy: 889, 317
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 30
+  rotate: false
+  xy: 920, 677
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 31
+  rotate: false
+  xy: 920, 598
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 33
+  rotate: false
+  xy: 920, 519
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 39
+  rotate: false
+  xy: 920, 440
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 4
+  rotate: true
+  xy: 889, 350
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Ellipse 1 copy 40
+  rotate: true
+  xy: 889, 383
+  size: 55, 77
+  orig: 61, 81
+  offset: 5, 1
+  index: -1
+Ellipse 1 copy 5
+  rotate: true
+  xy: 927, 350
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 1
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 8
+  size: 787, 746
+  orig: 807, 765
+  offset: 10, 9
+  index: -1
+ad
+  rotate: false
+  xy: 791, 510
+  size: 127, 244
+  orig: 127, 244
+  offset: 0, 0
+  index: -1
+box_4
+  rotate: true
+  xy: 791, 2
+  size: 103, 121
+  orig: 112, 130
+  offset: 4, 5
+  index: -1
+box_6
+  rotate: true
+  xy: 791, 212
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+box_6 copy 2
+  rotate: true
+  xy: 791, 107
+  size: 103, 158
+  orig: 112, 167
+  offset: 4, 5
+  index: -1
+vip_doc4
+  rotate: false
+  xy: 791, 322
+  size: 96, 186
+  orig: 98, 188
+  offset: 1, 1
+  index: -1
