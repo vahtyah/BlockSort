@@ -27,45 +27,6 @@ public class RealTimeTimer : Timer
     }
 }
 
-public class ReusableTimer : Timer
-{
-    public ReusableTimer(float duration) : base(duration)
-    {
-    }
-
-    public override Timer Start()
-    {
-        startTime = GetWorldTime();
-        IsCompleted = false;
-        IsCancelled = false;
-        timeElapsedBeforePause = null;
-        cleanupCalled = false;
-        onStart?.Invoke();
-        return this;
-    }
-}
-
-public class OneShotTimer : Timer
-{
-    protected OneShotTimer(float duration) : base(duration)
-    {
-    }
-
-    public override Timer Start()
-    {
-        if (IsRegistered || IsDone)
-        {
-            Debug.LogWarning("Timer is already registered or done. Please use ReusableTimer instead.");
-            return this;
-        }
-
-        startTime = GetWorldTime();
-        manager.RegisterTimer(this);
-        onStart?.Invoke();
-        return this;
-    }
-}
-
 
 public class Timer : IDisposable
 {
@@ -77,19 +38,19 @@ public class Timer : IDisposable
     private readonly float duration;
     protected float startTime;
     protected float? timeElapsedBeforePause;
-
-    protected Action onStart;
+    
     private Action<float> onUpdate;
     private Action<float> onProgress;
     private Action<float> onRemaining;
     private Action<float> onTimeRemaining;
 
+    protected Action onStart;
     private Action onComplete;
     private Action onCancel;
     private Action onDone;
 
-    public bool IsRegistered { get; private set; }
     public float Duration => duration;
+    public bool IsRegistered { get; private set; }
     public bool IsCompleted { get; protected set; }
     public bool IsPaused => timeElapsedBeforePause.HasValue;
     public bool IsLooped { get; private set; }
@@ -98,19 +59,19 @@ public class Timer : IDisposable
 
     public bool IsDone => IsCompleted || IsCancelled;
     public bool IsRunning => !IsDone && !IsPaused && IsRegistered;
-    public float Progress => GetElapsedTime() / duration;
-    public float TimeRemaining => duration - GetElapsedTime();
-    public float Remaining => duration / GetElapsedTime();
+    public float Progress => duration > 0 ? Mathf.Clamp01(GetElapsedTime() / duration) : 0f;
+    public float TimeRemaining => Mathf.Max(0f, duration - GetElapsedTime());
+    public float Remaining => duration > 0 ? Mathf.Clamp01(TimeRemaining / duration) : 0f;
 
 
     protected Timer(float duration)
     {
-        this.duration = duration;
+        this.duration = Math.Max(0f, duration);
     }
 
     public static Timer Register(Timer timer)
     {
-        EnsureManagerExits();
+        EnsureManagerExists();
 
         timer.OnStart(() => timer.IsRegistered = true);
         timer.OnDone(() =>
@@ -127,7 +88,7 @@ public class Timer : IDisposable
         return Register(timer);
     }
 
-    private static void EnsureManagerExits()
+    private static void EnsureManagerExists()
     {
         if (manager == null)
             manager = TimerManager.Instance ?? new GameObject("TimerManager").AddComponent<TimerManager>();
@@ -135,13 +96,16 @@ public class Timer : IDisposable
 
     public Timer WithCancellation(CancellationToken token)
     {
-        tokenRegistration.Dispose();
+        if (tokenRegistration != default)
+        {
+            tokenRegistration.Dispose();
+        }
 
         cancellationToken = token;
 
         if (token.CanBeCanceled)
         {
-            tokenRegistration = token.Register(() => Cancel(), useSynchronizationContext: false);
+            tokenRegistration = token.Register(Cancel, useSynchronizationContext: false);
         }
 
         return this;
@@ -225,18 +189,44 @@ public class Timer : IDisposable
         return this;
     }
 
-    /// <summary>
-    /// Your timer will start counting down from the moment you call this method. This method just runs only once no matter how many times you call it.
-    /// </summary>
-    /// <returns></returns>
     public virtual Timer Start()
     {
-        if (IsRegistered || IsDone) return this;
+        if (IsDone)
+        {
+            ResetState();
+        }
+        
         startTime = GetWorldTime();
+        if (IsRegistered) return this;
+        
+        EnsureManagerExists();
         manager.RegisterTimer(this);
         onStart?.Invoke();
-        // RegisterActions();
         return this;
+    }
+    
+    /// <summary>
+    /// Restart the timer from the beginning. This will reset all states and start again.
+    /// </summary>
+    /// <returns></returns>
+    public Timer Restart()
+    {
+        if (IsRegistered)
+        {
+            manager?.RemoveTimer(this);
+            IsRegistered = false;
+        }
+        
+        ResetState();
+        return Start();
+    }
+    
+    private void ResetState()
+    {
+        IsCompleted = false;
+        IsCancelled = false;
+        timeElapsedBeforePause = null;
+        cleanupCalled = false;
     }
 
     /// <summary>
@@ -249,30 +239,6 @@ public class Timer : IDisposable
         return this;
     }
 
-    /// <summary>
-    /// Your timer will start counting down from the moment you call this method. This method can be called multiple times and it will reset the timer.
-    /// </summary>
-    /// <returns></returns>
-    public Timer ReStart()
-    {
-        return Reset().Start();
-    }
-
-    private Timer Reset()
-    {
-        if (IsRegistered) manager.RemoveTimer(this);
-        IsRegistered = false;
-        IsCompleted = false;
-        IsCancelled = false;
-        timeElapsedBeforePause = null;
-        cleanupCalled = false;
-
-        tokenRegistration.Dispose();
-        cancellationToken = null;
-        tokenRegistration = default;
-
-        return this;
-    }
 
     public void Cancel()
     {
@@ -280,6 +246,8 @@ public class Timer : IDisposable
 
         IsCancelled = true;
         onCancel?.Invoke();
+        
+        Cleanup();
     }
 
     public void Pause()
@@ -357,7 +325,6 @@ public class Timer : IDisposable
     {
         Cancel();
 
-        // Dispose token registration
         tokenRegistration.Dispose();
         cancellationToken = null;
 
@@ -377,20 +344,20 @@ public class TimerManager : PersistentSingleton<TimerManager>
 
     private void Update()
     {
-        RefreshTimers();
+        UpdateTimers();
     }
 
     public void RegisterTimer(Timer timer)
     {
         if(!timers.Contains(timer)) timers.Add(timer);
     }
-
+       
     public void RemoveTimer(Timer timer)
     {
         timers.Remove(timer);
     }
 
-    private void RefreshTimers()
+    private void UpdateTimers()
     {
         for (int i = timers.Count - 1; i >= 0; i--)
         {
@@ -398,7 +365,7 @@ public class TimerManager : PersistentSingleton<TimerManager>
         }
     }
 
-    private void PauseTimers()
+    public void PauseTimers()
     {
         for (int i = timers.Count - 1; i >= 0; i--)
         {
@@ -406,7 +373,7 @@ public class TimerManager : PersistentSingleton<TimerManager>
         }
     }
 
-    private void ResumeTimers()
+    public void ResumeTimers()
     {
         for (int i = timers.Count - 1; i >= 0; i--)
         {
@@ -414,7 +381,7 @@ public class TimerManager : PersistentSingleton<TimerManager>
         }
     }
 
-    private void CancelTimers()
+    public void CancelTimers()
     {
         for (int i = timers.Count - 1; i >= 0; i--)
         {
@@ -423,4 +390,6 @@ public class TimerManager : PersistentSingleton<TimerManager>
 
         timers.Clear();
     }
+    
+    public int ActiveTimersCount => timers.Count;
 }
