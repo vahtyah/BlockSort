@@ -20,1922 +20,1922 @@ MonoBehaviour:
     Position: {x: 51.3, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 0
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 52.75, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 1
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 2
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 3
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 4
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 5
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 6
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 61.449997, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 7
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 62.899998, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 8
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 64.35, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 9
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 10
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 11
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 12
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 13
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 14
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 15
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 46.280586, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 16
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 51.3, y: 47.672447, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 17
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 47.672447, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 18
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 19
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 20
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 21
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 22
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 23
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 61.449997, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 24
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 62.899998, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 25
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 64.35, y: 47.672443, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 26
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 27
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 28
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 29
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 30
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 31
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 32
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 74.5, y: 47.674896, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 33
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 51.3, y: 49.118034, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 34
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 49.118034, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 35
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 36
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 37
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 38
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 39
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 40
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 41
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 42
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 49.11803, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 43
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 44
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 45
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 46
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 47
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 48
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 49
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 74.5, y: 49.0962, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 50
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 50.512596, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 51
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 52
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 53
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 54
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 55
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 56
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 57
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 58
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 59
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 50.512592, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 60
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 61
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 62
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 63
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 64
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 65
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 66
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 50.541786, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 67
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 68
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 69
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 70
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 71
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 72
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 73
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 74
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 75
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 76
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 51.934853, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 77
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 78
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 79
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 80
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 81
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 82
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 83
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 51.940983, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 84
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 85
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 86
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 87
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 88
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 89
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 90
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 91
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 92
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 93
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 53.38044, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 94
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 95
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 96
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 97
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 98
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 99
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 100
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 53.38657, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 101
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 102
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 103
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 104
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 105
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 106
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 107
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 108
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 109
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 110
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 54.781834, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 111
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 112
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 113
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 114
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 115
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 116
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 117
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 54.810055, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 118
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 119
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 120
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 121
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 122
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 123
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 124
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 125
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 126
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 127
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 56.22742, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 128
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 129
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 130
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 131
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 132
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 133
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 134
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 56.216362, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 135
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 136
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 52.75, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 137
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 138
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 139
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 140
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 141
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 142
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 143
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 144
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 57.633747, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 145
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 146
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 147
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 148
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 149
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 150
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 73.049995, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 151
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 57.66195, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 152
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 153
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 154
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 54.199997, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 155
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 156
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 157
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 158
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 159
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 160
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 161
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 59.079334, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 162
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 163
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 164
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 165
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 166
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 71.6, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 167
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 168
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 59.073204, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 169
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 170
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 171
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 172
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 173
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 174
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 175
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 176
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 61.449997, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 177
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 62.899998, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 178
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 64.35, y: 60.49059, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 179
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 180
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 181
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 182
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 183
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 184
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 185
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 60.51879, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 186
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 187
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 188
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 189
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 55.649998, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 190
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 191
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 192
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 193
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 194
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 195
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 61.936176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 196
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 197
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 198
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 199
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 70.15, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 200
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 201
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 202
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 61.93495, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 203
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 204
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 205
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 206
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 55.649998, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 207
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 208
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 209
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 210
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 61.449997, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 211
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 62.899998, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 212
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 64.35, y: 63.35234, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 213
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 214
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 215
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 216
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 70.15, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 217
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 218
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 219
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 63.380543, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 220
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 221
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 222
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 223
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 224
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 225
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 226
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 227
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 228
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 229
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 64.79793, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 230
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 231
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 232
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 233
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 234
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 235
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 236
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 64.80159, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 237
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 238
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 239
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 240
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 241
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 242
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 58.55, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 243
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 244
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 245
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 246
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 66.21898, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 247
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 248
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 67.25, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 249
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 250
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 251
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 252
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 253
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 66.24718, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 254
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 255
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 256
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 257
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 258
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 259
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 58.55, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 260
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 261
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 262
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 263
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 67.664566, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 264
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 265
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 67.25, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 266
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 267
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 268
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 269
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 270
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 67.67313, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 271
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 272
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 273
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 274
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 275
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 276
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 277
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 278
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 279
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 280
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 69.090515, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 281
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 282
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 283
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 284
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 285
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 286
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 287
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 69.11871, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 288
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 289
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 290
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 291
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 292
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 293
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 294
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 295
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 296
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 297
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 70.5361, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 298
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 299
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 300
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 301
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 302
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 303
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 304
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 70.54971, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 305
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 306
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 307
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 308
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 309
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 310
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 311
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 312
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 313
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 314
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 71.9671, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 315
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 65.799995, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 316
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 317
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 318
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 319
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 320
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 321
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 71.9953, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 322
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 323
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 324
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 325
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 326
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 327
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 328
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 329
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 61.449997, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 330
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 62.899998, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 331
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 64.35, y: 73.41269, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 332
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 333
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 67.25, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 334
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 335
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 336
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 337
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 338
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 73.43176, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 339
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 340
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 341
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 342
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 55.649998, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 343
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 57.1, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 344
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 58.55, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 345
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 346
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 61.449997, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 347
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 62.899998, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 348
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 64.35, y: 74.84915, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 349
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 350
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 67.25, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 351
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 68.7, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 352
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 70.15, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 353
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 354
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 355
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 74.87735, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 356
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 357
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 358
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 359
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 55.649998, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 360
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 57.1, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 361
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 58.55, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 362
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 60, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 363
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 61.449997, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 364
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 62.899998, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 365
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 64.35, y: 76.29474, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 366
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 65.799995, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 367
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 67.25, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 368
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 68.7, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 369
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 70.15, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 370
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 71.6, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 371
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 73.049995, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 372
-    Layer: 1
+    StackSize: 1
   - Color: 5
     Position: {x: 74.5, y: 76.31981, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 373
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 51.3, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 374
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 52.75, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 375
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 54.199997, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 376
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 55.649998, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 377
-    Layer: 1
+    StackSize: 1
   - Color: 7
     Position: {x: 57.1, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 378
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 58.55, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 379
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 60, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 380
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 61.449997, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 381
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 62.899998, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 382
-    Layer: 1
+    StackSize: 1
   - Color: 0
     Position: {x: 64.35, y: 77.7372, z: -0.2969544}
     Rotation: {x: 0, y: 0, z: 0, w: 1}
     Index: 383
-    Layer: 1
+    StackSize: 1
   Boxes:
   - Color: 0
     Type: 4

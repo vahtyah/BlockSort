@@ -235,7 +235,7 @@ public class BatchLevelDataConverter : EditorWindow
                     Position = piece.position.ToUnityVector3(),
                     Rotation = piece.rotation.ToUnityQuaternion(),
                     Index = piece.dataIndex,
-                    Layer = piece.stackSize
+                    StackSize = piece.stackSize
                 };
                 levelData.Blocks.Add(block);
             }

@@ -8,5 +8,5 @@ public class BlockData
     public Vector3 Position;
     public Quaternion Rotation;
     public int Index;
-    public int Layer;
+    public int StackSize;
 }

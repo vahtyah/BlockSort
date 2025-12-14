@@ -5,6 +5,7 @@ public class Block : MonoBehaviour
 {
     [SerializeField] private Renderer _renderer;
     
+    private BlockData _blockData;
     private Material _material;
 
     private void Awake()
@@ -15,9 +16,19 @@ public class Block : MonoBehaviour
         _material = _renderer.material;
     }
     
+    public void Initialize(BlockData blockData)
+    {
+        _blockData = blockData;
+    }
+    
     public void SetColor(Color color)
     {
         _material.color = color;
+    }
+    
+    public int GetColor()
+    {
+        return _blockData.Color;
     }
 
     private void OnValidate()
